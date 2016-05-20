@@ -1,3 +1,3 @@
 # JF-React-boilerplate
 
-Just run `gulp` from the root directory ;)
+Just run `gulp` from the root directory :bear:
